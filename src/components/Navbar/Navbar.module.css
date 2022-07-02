@@ -1,0 +1,24 @@
+.nav {
+    padding: 20px;
+    grid-area: n;
+    background-color: rgba(120, 46, 200, 0.6);
+  }
+ 
+.item {
+    color: aliceblue;
+    text-decoration: none;
+}  
+
+.active {
+    text-decoration: none;
+  color: gold;
+}
+
+.settings{
+    margin-top: 25px;
+}
+
+.friends {
+    font-size: 20px;
+    margin-top: 8px;
+}

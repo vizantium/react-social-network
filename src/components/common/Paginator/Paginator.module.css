@@ -1,0 +1,8 @@
+.selectedPage {
+    font-weight: bold;
+}
+
+.num {
+    padding: 1 px;
+    border: 1px solid red;
+}
